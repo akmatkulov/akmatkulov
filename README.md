@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akmatkulov
+- 👋 Hi, I’m Sovetbek Akmatkulov
 - 👀 I’m interested in Ruby on Rails
 - 🌱 I’m currently learning Ruby, Ruby on Rails, JavaScript, PostgreSQL
 - 📫 How to reach me akmatkulovs991@gmail.com
