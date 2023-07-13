@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sovetbek Akmatkulov
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript, PostgreSQL
+- 👀 I’m interested in Ruby on Rails development
+- 🌱 I’m currently learning  Ruby, Ruby on Rails, PostgreSQL
 - 📫 How to reach me akmatkulovs991@gmail.com
 
 <!---
