@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sovetbek Akmatkulov
 - 👀 I’m interested in Ruby on Rails development
 - 🌱 I’m currently learning  Ruby, Ruby on Rails, PostgreSQL
-- 📫 How to reach me akmatkulovs991@gmail.com
+- 📫 How to reach me pnz19620@gmail.com
 
 <!---
 akmatkulov/akmatkulov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
